@@ -69,7 +69,7 @@ Continue this process for all the sub-topics.
 
 conversation_history = [{"role": "system", "content": preprompt}]
 
-openai.api_key = "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"
+openai.api_key = "hidden"
 
 @app.route('/chat', methods=['POST'])
 def chat_with_gpt():
