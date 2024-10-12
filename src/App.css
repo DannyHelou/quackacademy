@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #B59E84;
+}
+
+
+
+body {
+  /* font-family: 'Press Start 2P', cursive; */
+  font-family: 'VT323', monospace;
+  
+}
+
